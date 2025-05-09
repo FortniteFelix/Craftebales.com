@@ -1,0 +1,19 @@
+img {border-radius: 10px;}
+body{background: linear-gradient(to right,  rgb(184, 184, 184), rgb(126, 126, 126));; font-family:Pixelify Sans;}
+strong {
+    font-size: 69px;
+    font-weight: bold;
+    
+    background: linear-gradient(to right,  rgb(242, 255, 122), rgb(89, 147, 255));
+    background-clip: text; /* Standard property */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+p{
+    font-size: 30px;
+    font-weight: bold;
+    background: linear-gradient(to right,  rgb(242, 255, 122), rgb(89, 147, 255));
+    background-clip: text; /* Standard property */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
